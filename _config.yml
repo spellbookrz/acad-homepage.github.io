@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shuwei Zhou"
+  name             : "Shuwei Zhou<br>周书蔚"  
   avatar           : "images/Shuwei_avatar.jpg"
   bio              : "RWTH Aachen University"
   location         : "Aachen, Germany"
-  employer         : "Institute of Metal Forming, RWTH Aachen University"
+  employer         : "Institute of Metal Forming"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=krmnMWIAAAAJ&hl=en"
   email            : "shuwei.zhou@ibf.rwth-aachen.de"
