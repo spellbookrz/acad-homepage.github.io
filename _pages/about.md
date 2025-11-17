@@ -95,7 +95,8 @@ I am aiming to integrate these two research directions to develop data-driven mu
 
 # 💻 Peer Reviewer
 - Reliability Engineering and System Safety
-- Engineering Structures, Engineering Fracture Mechanics
+- Engineering Structures
+- Engineering Fracture Mechanics
 - Theoretical and Applied Fracture Mechanics
 - Engineering Applications of Artificial Intelligence
 - Journal of Materials Research and Technology
