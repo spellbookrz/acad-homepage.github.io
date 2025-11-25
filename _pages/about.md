@@ -102,5 +102,6 @@ I am aiming to integrate these two research directions to develop data-driven mu
 - Journal of Materials Research and Technology
 - Structural Health Monitoring 
 - International Journal of Pressure Vessels and Piping
+- International Journal of Cast Metals Research
 - 工程热物理学报 (Journal of Engineering Thermophysics)
 
